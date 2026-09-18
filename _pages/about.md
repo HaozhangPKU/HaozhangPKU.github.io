@@ -6,7 +6,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
+My name is Hao Zhang. I am a second year graduate student in Peking University. I am interested in algebraic geometry, especially the decomposition theorem. Currently, I am studying problems on moduli spaces of pointed stable curves
 
-我是一名 XX 领域的研究者，目前就读/任职于 XX 大学。我的研究方向包括 XX、XX 和 XX。
-
-欢迎通过邮件与我联系：your_email@example.com
