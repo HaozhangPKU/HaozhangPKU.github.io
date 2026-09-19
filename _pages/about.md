@@ -6,5 +6,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second year graduate student in Peking University. My research interest is algebraic geometry, especially the decomposition theorem. Recently, I am studying problems about moduli spaces of pointed stable curves
+I am a second year graduate student in Peking University. My research area is algebraic geometry. Recently, I have been thinking about the decomposition theorem for maps between moduli spaces of pointed stable curves
 
