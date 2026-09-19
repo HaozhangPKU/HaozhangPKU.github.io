@@ -5,6 +5,6 @@ category: manuscripts
 permalink: /publication/2026-08-11-paper-Murphy-law
 excerpt: 'We prove that every possible support occurs in the decomposition for forgetful maps between moduli spaces of stable pointed curves after forgetting sufficiently many points.'
 date: 2026-08-11
-venue: 'arXiv preprint'
+venue: 'arXiv:2608.10461'
 paperurl: 'https://HaozhangPKU.github.io/files/A_Murphy_s_law_for_supports_of_forgetful_maps.pdf'
 ---
